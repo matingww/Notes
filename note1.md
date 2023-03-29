@@ -2,7 +2,7 @@
 
 i think OOP is awesome!
 
-```phyton
+```python
 
 # Example class
 
